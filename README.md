@@ -3,7 +3,7 @@
 - Junior Software Engineer.
 - Studied Software Engineering at [Far Eastern State Transport University](https://dvgups.ru/en/)
 
-### 💻 Tech Stack:
+### Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
