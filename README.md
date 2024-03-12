@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, my name is Artyom.
 
-<!--
-**artyom-kalman/artyom-kalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Junior Software Engineer.
+- Studied Software Engineering at [Far Eastern State Transport University](https://dvgups.ru/en/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills:
+- C#
+- APS.NET
+- Python
+- PostgreSQL
+- TypeScript
+- Playwright
